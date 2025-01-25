@@ -1,0 +1,12 @@
+grandalf
+pypdf 
+langgraph 
+langchain-openai==0.0.8 
+langchain-groq 
+python-dotenv 
+linkedin-api
+streamlit
+nest-asyncio
+streamlit_chat
+streamlit_pills 
+langsmith
